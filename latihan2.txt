@@ -1,0 +1,21 @@
+1. IF else
+jika nilai >= 90 Grade A
+jika nilai >= 80 Grade B
+jika nilai >= 70 Grade C
+jika nilai >= 60 Grade D & 
+jika nilai <= 50 Grade E
+
+2. Switch case
+Jika Grade A -> Pertahan memahami bentuk percabangan javakan
+Jika Grade B -> Harus lebih baik lagi
+Jika Grade C -> Perbanyak belajar
+Jika Grade D -> Jangan keseringan main
+Jika Grade E -> Kebanyakan bolod
+Defaul -> format tidak sesuai
+
+3. Kombinasi if & Switch
+Nilai :
+Grade :
+Keterangan:
+
+

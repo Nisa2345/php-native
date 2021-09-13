@@ -1,0 +1,48 @@
+silahkan kalian buat formulir dengan ketentuan di bawah ini
+
+-program peminjaman mobil
+nama, nik, jenis kelamin, agama, tanggal peminjaman(date),
+tanggal kembali(date), penjamin, nama mobil, no plat mobil,
+jenis mobil, pembayaran,supir,denda
+
+halaman 1
+yang di input
+nama,nik,jk,agama,nama mobil, jenis mobil, no plat mobil(select minimal 4 tipe),
+merk(select minimal 4 merk),
+tanggal peminjaman, tanggal kembali, penjamin, supir
+
+halaman 2
+yang di input tanggal telat(date) dan pembayaran(uang masuk)
+
+ketentuan
+peminjaman mobil di kenakan biaya sebesar 150 ribu per hari
+jika menggunakan supir maka biaya di kenakan sebesar 250 ribu dan
+uang makan sebesar 25 ribu perhari
+
+penjamin : fc ktp, fc sim, fc kk(select)
+
+jika mengembalikan sesuai dengan tanggal maka tidak di kenakan denda
+jika telat mengembalikan maka di kenakan denda sebesar 10ribu per jam
+
+jika uang pembayaran lebih dari biaya maka ada keterangan uang
+kembali dan ucapan terima kasih
+
+dan jika uang kurang maka ada keterangana "Anda kami blacklist dari rental kami"
+
+output
+nama
+nik
+jenis kelamin
+agama
+tanggal peminjaman
+tanggal kembali
+penjamin
+nama mobil
+no plat mobil
+jenis mobil
+supir
+telat
+pembayaran uang masuk
+uang kembali
+keterangan
+

@@ -1,0 +1,5 @@
+buatlah sebuah class bernama komputer, komputer tersebut memiliki 
+data pemilik, merk dan juga ukuran layar, kemudian dari komputer
+bisa di nyalakan dan di matikan
+
+tentukan dan isi property dari class computer tersebut sebanyak 5 objek saja

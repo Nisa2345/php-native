@@ -1,0 +1,13 @@
+buatlah pengulangan di bawah ini
+ menggunakan for/while & foreach:
+ 1. 2 4 5 16 32 64
+ 2. 825 125 25 5
+ 3. carilah sisa hasil bagi 3 dari array tsb
+    {18, 45, 29, 61, 47, 34}
+    menggunakan foreach/for
+4. buatlah looping bintang menggunakan nested
+
+
+
+
+
